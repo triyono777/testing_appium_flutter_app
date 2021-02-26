@@ -1,6 +1,7 @@
 # testing_appium_flutter_app
 
-A new Flutter application.
+A new Flutter application testing with appium.
+[link tutorial dev.to ](https://dev.to/netfirms/flutter-app-testing-with-appium-flutter-driver-33ko)
 
 ## Getting Started
 
